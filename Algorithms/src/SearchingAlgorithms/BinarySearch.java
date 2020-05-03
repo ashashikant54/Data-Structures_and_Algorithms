@@ -1,5 +1,5 @@
 /**
- * Adding updated comments
+ * Updating comments from Visual Studio on May 3rd 2020 
  */
 package SearchingAlgorithms;
 
