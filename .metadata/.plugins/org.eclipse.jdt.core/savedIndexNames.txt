@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Shashi\Local Git Repositories\Data-Structures_and_Algorithms\.metadata\.plugins\org.eclipse.jdt.core
+3803309674.index
